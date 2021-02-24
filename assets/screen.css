@@ -8,3 +8,9 @@ h1 {
 input {
   margin-bottom: 0.5em;
 }
+
+@media screen and (min-width: 18.75em) {
+  #wrap {
+    display: inline-block;
+    justify-content: center;
+  }
