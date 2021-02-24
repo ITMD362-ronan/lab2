@@ -1,0 +1,10 @@
+h1 {
+  font-size: 200%;
+  font-weight: bold;
+  padding-bottom: 0.5em;
+  text-align: center;
+}
+
+input {
+  margin-bottom: 0.5em;
+}
